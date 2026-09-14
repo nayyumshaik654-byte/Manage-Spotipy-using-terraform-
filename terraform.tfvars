@@ -1,1 +1,2 @@
-api_key = " ** "
+spotify_api_key = "..."
+
